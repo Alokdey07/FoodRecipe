@@ -50,7 +50,7 @@ https://foodrecipealok.netlify.app/
 
 ## Screen Recording
 
-![App Demo](https://media.giphy.com/media/qB3tq2Au5xaEgHHYtS/giphy.gif)
+![App Demo](https://media.giphy.com/media/coAouqzFMf9p2mEQOt/giphy.gif)
 
 
 ## API 
