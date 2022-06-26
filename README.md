@@ -35,9 +35,9 @@ Food Recipe Finder App’s Unique App Features:
 
 With over thousands of recipes available, Food Recipe Finder App promises that you’ll never cook the same thing twice (unless you want to, of course!).
 
---What's on the menu ?-- The menu page is where you'll find all your recipe ideas. Why is it called menu? Because just like the menu in a restaurant, everything on the menu page is available to you now. Food Recipe Finder App instantly analyzes 11 million recipes and finds the ones that match your unique ingredients.
 
-Most likely your menu page will contain thousands of recipes, but don't worry, we've broken them down into helpful categories like soups and stews, appetizers and snacks, salads, entrees, desserts and more.
+
+
 
 --Reduce food waste-- Most people don't realize how much food they throw away every day — from uneaten leftovers to spoiled produce. Food Recipe Finder App is one of the best ways to reduce food waste in the home. It finds recipes that use as many of your ingredients as possible, so nothing goes to waste. Food Recipe Finder App makes food waste prevention fun and easy, just open the menu page on the app and choose a recipe. We help you use what you have, so nothing goes to waste!
 
